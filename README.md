@@ -1,4 +1,4 @@
-# CardGames
+# CardGame
 
 This is a library built for card games.
 
